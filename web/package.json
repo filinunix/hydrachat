@@ -1,0 +1,9 @@
+{
+  "name": "@hydrachat/web",
+  "homepage": "https://github.com/filinunix/hydrachat",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "workspaces": [],
+  "devDependencies": {
+    "@types/bun": "1.4.2"
+  }
+}
